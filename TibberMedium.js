@@ -12,6 +12,7 @@
 // v2.0.4 - avrunder pris til hele øre. Trinn-graf.
 // v2.0.5 - Legg til valg av HOME_NR som parameter og visning av "bolig-navn" - takk til Marium0505!
 // v2.0.6 - Translate DE
+// v2.0.7 - Small changes
 
 // Finn din token ved å logge på med Tibber-kontoen din her:
 // https://developer.tibber.com/settings/accesstoken
